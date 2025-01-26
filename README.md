@@ -63,5 +63,5 @@ Makefile проекта содержит следующие цели:
 
 | Участник      |            |
 | ------------- | ------------------ |
-| lenwooda, kristofs, latricin, [lesleyle](https://github.com/IvanVito) | Функции abs, acos, asin, atan, ceil, exp, fabs, floor, fmod, log, pow, sin, sqrt, соответствующие unit-тесты |
+| [lenwooda](https://github.com/llllenivka), [kristofs](https://github.com/BalagurovaA), latricin, [lesleyle](https://github.com/IvanVito) | Функции abs, acos, asin, atan, ceil, exp, fabs, floor, fmod, log, pow, sin, sqrt, соответствующие unit-тесты |
 | [lemongrb](https://github.com/Shyrasya) | Функции cos, tan, соответствующие unit-тесты |
